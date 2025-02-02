@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5140838797299087059
+  m_GuidHigh: 2767466759622513280
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5547955836908220886
+      m_GuidHigh: 18372774912382815388
+    m_SerializedTextureGuid:
+      m_GuidLow: 12678975551384193288
+      m_GuidHigh: 837975911746977384
+    m_Size: {x: 0.3286125, y: 0.5842}
+    m_SpecifySize: 1
+    m_Name: IsaacBuilding
+    m_Texture: {fileID: 2800000, guid: 801e0908c516aff4683e03e6a616a10b, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5159468424823518779
+      m_GuidHigh: 6866336002135631524
+    m_SerializedTextureGuid:
+      m_GuidLow: 9319354789561183983
+      m_GuidHigh: 17347756578382598555
+    m_Size: {x: 0.3286125, y: 0.5842}
+    m_SpecifySize: 1
+    m_Name: 3DModel
+    m_Texture: {fileID: 2800000, guid: 17a12eefffce81549bd17018b29cbff0, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5052676005566897431
+      m_GuidHigh: 16565775119114014350
+    m_SerializedTextureGuid:
+      m_GuidLow: 12431243913986420945
+      m_GuidHigh: 15264175238848161931
+    m_Size: {x: 0.13546, y: 0.13546}
+    m_SpecifySize: 1
+    m_Name: UniversityLogo
+    m_Texture: {fileID: 2800000, guid: e965b0d1a679ac848ba8dbb4813ed5d3, type: 3}
